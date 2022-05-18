@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+
+# Gnerated CSVs
+table_1_combo_freq.csv
+table_2_item_freq.csv
