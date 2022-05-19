@@ -3,3 +3,8 @@
 # Gnerated CSVs
 table_1_combo_freq.csv
 table_2_item_freq.csv
+
+# tmp stuff
+*.pyc
+*.pyo
+*.swp
